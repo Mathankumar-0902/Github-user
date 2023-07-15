@@ -1,0 +1,38 @@
+export default {
+  login: "Mathankumar-0902",
+  id: 126561381,
+  node_id: "U_kgDOB4ssZQ",
+  avatar_url: "https://avatars.githubusercontent.com/u/126561381?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/Mathankumar-0902",
+  html_url: "https://github.com/Mathankumar-0902",
+  followers_url: "https://api.github.com/users/Mathankumar-0902/followers",
+  following_url:
+    "https://api.github.com/users/Mathankumar-0902/following{/other_user}",
+  gists_url: "https://api.github.com/users/Mathankumar-0902/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/Mathankumar-0902/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/Mathankumar-0902/subscriptions",
+  organizations_url: "https://api.github.com/users/Mathankumar-0902/orgs",
+  repos_url: "https://api.github.com/users/Mathankumar-0902/repos",
+  events_url: "https://api.github.com/users/Mathankumar-0902/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/Mathankumar-0902/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Mathan Kumar",
+  company: null,
+  blog: "",
+  location: null,
+  email: null,
+  hireable: null,
+  bio: null,
+  twitter_username: "Mathan_Kumar",
+  public_repos: 9,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: "2023-02-28T09:20:25Z",
+  updated_at: "2023-07-11T16:15:07Z",
+};
